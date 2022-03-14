@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+main{
+    height: 100%;
+    background-color: rgba(65, 96, 155, 0.835);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pokedex{
+    background-color: #dadfe8;
+    display: flex;
+    gap: 30px;
+    padding: 30px 0;
+}
